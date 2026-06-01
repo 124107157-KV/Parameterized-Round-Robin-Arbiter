@@ -22,6 +22,8 @@ This project is intended to demonstrate proficiency in:
 * Functional coverage
 * EPWave waveform debugging
 
+**EDA Playground:** <https://www.edaplayground.com/x/UUfJ>
+
 ---
 
 ## Table of Contents
